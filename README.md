@@ -1,47 +1,70 @@
 # osint-research-library
 
-OSINT article library and research templates.
+OSINT article library, research templates, beginner guides, and practical tools.
 
 ## Overview
-This repository is a practical starting point for organizing OSINT research, article tracking, and reusable investigation workflows.
+This repository is a practical starter kit for OSINT (Open Source Intelligence) research. It is built to help you:
+- collect good sources
+- evaluate source quality
+- keep research notes
+- practice careful public-source investigation
+- learn the basics in plain language
 
-## Included Resources
-- `OSINT_Starter_Library.md` — curated initial list of reputable article sources
-- `GitHub_OSINT_Resources.md` — GitHub repositories and tools worth exploring
-- `OSINT_Article_Tracker.md` — tracking template for article evaluation
-- `OSINT_101.md` — beginner-friendly introduction to OSINT in plain language
-- `notes/README.md` — notes structure for investigation work
-- `notes/OSINT_Investigation_Template.md` — reusable investigation framework
-- `notes/OSINT_Research_Journal.md` — simple daily research log
-- `TOOLS.md` — curated tool recommendations with source links
+## Included resources
+- `OSINT_Starter_Library.md` — a starter set of good OSINT articles and resources
+- `GitHub_OSINT_Resources.md` — useful GitHub repositories and tools
+- `OSINT_Article_Tracker.md` — article evaluation and tracking template
+- `TOOLS.md` — a curated tool shortlist with source links
+- `SOURCE_QC_CHECKLIST.md` — how to review and quality-check sources
+- `OSINT_101.md` — beginner-friendly OSINT introduction
+- `OSINT_201.md` — intermediate guide to better research habits
+- `OSINT_101_lv.md` — Latvian beginner guide
+- `OSINT_201_lv.md` — Latvian intermediate guide
+- `OSINT_101_ru.md` — Russian beginner guide
+- `OSINT_201_ru.md` — Russian intermediate guide
+- `notes/README.md` — notes structure
+- `notes/OSINT_Investigation_Template.md` — investigation template
+- `notes/OSINT_Research_Journal.md` — simple research journal
 
-## Tool Recommendations
-The repo now includes a dedicated tool guide in `TOOLS.md`.
+## How to use this repo
+Use the repo in a simple workflow:
 
-### Core categories
-- General OSINT frameworks
-- Website and infrastructure recon
-- Social media investigation
-- Identity and domain research
-- Data verification and public-source review
+1. Start with `OSINT_101.md` if you are brand new to OSINT.
+2. Continue with `OSINT_201.md` to learn better research and verification habits.
+3. Review `TOOLS.md` and `GitHub_OSINT_Resources.md` for useful tools and repositories.
+4. Use `OSINT_Article_Tracker.md` to assess and track article quality.
+5. Use `SOURCE_QC_CHECKLIST.md` before accepting any new source or claim.
+6. Record findings in `notes/OSINT_Investigation_Template.md` and `notes/OSINT_Research_Journal.md`.
+7. Keep your notes organized and separate from assumptions or unsupported conclusions.
 
-### Recommended starting tools
-- SpiderFoot — website and infrastructure footprinting
-- theHarvester — email, subdomain, and domain discovery
-- web-check — website exposure and analysis
-- OSINT-Framework — curated tool map by use case
-- sn0int — semi-automated OSINT gathering
-- Osintgram — Instagram-focused investigation workflows
-- Photon — fast crawler for public web discovery
-
-See `TOOLS.md` for detailed suggestions and source links.
-
-## Suggested workflow
-1. Read the starter article library
-2. Use the tracker to evaluate relevance and reliability
-3. Use the notes templates for active investigation work
-4. Use GitHub tools and repo references to expand your research stack
-5. Keep a running journal of findings, limitations, and follow-up questions
+## Suggested reading order
+1. Read `OSINT_101.md`
+2. Read `OSINT_201.md`
+3. Use the article tracker and source library
+4. Add your own notes and findings
+5. Explore `TOOLS.md` and `GitHub_OSINT_Resources.md`
 
 ## Best practice
-OSINT works best when it is documented, verified, and cross-checked. Treat every source as a clue to evaluate, not as proof by itself.
+OSINT works best when:
+- you use public information only
+- you verify what you find
+- you compare multiple sources
+- you document uncertainty
+- you stay ethical and legal
+
+Good OSINT is careful, documented, and evidence-based.
+
+## Quality standard
+This repository follows a source QC-first model:
+- check whether the source exists and is relevant
+- verify quality and trustworthiness
+- confirm information is supported
+- document confidence and limitations
+- reject weak or unsupported sources
+
+## Languages
+- English
+- Latvian
+- Russian
+
+Use the relevant file based on your preferred language.
