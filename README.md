@@ -9,6 +9,7 @@ This repository is a practical starting point for organizing OSINT research, art
 - `OSINT_Starter_Library.md` — curated initial list of reputable article sources
 - `GitHub_OSINT_Resources.md` — GitHub repositories and tools worth exploring
 - `OSINT_Article_Tracker.md` — tracking template for article evaluation
+- `OSINT_101.md` — beginner-friendly introduction to OSINT in plain language
 - `notes/README.md` — notes structure for investigation work
 - `notes/OSINT_Investigation_Template.md` — reusable investigation framework
 - `notes/OSINT_Research_Journal.md` — simple daily research log
